@@ -49,6 +49,16 @@ h1, h3{
     text-align: center;
     padding: 8px;
 }
+p{
+    color : white;
+    margin: 8px 0;
+
+}
+#len{
+    width: 40px;
+    border: none;
+    padding: 4px 6px;
+}
 #cont{
     display: flex;
     justify-content: space-between;
