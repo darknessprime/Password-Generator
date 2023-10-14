@@ -12,6 +12,7 @@ function generate() {
 
 function reset() {
     res1.innerHTML = "";
+    res2.innerHTML = "";
 }
 
 function ran() {
